@@ -29,30 +29,22 @@
 
 
 ## Connect with me  
-<!--<div align="center">
- <a href="mailto:sheilafundora04@gmail.com">
+<div align="center">
+ <a href="mailto:rubenalejandrosolerlopez@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
- <a href="https://www.linkedin.com/in/sheila-fundora-7789b7215/" target="_blank">
+ <a href="https://www.linkedin.com/in/rub%C3%A9n-a-soler-lopez-5a8486281/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
  </a>
- <a href="https://github.com/SheilaFundora" target="_blank">
+ <a href="https://github.com/rubenasl" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
  </a>
- <a href="https://twitter.com/sheila_fundora" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
- </a>
- <a href="https://www.instagram.com/sheyfg04/" target="_blank">
+ <a href="https://www.instagram.com/ruben_sl/" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
  </a>
- <a href="https://www.facebook.com/sheila.fundora.7/" target="_blank">
+ <a href="https://www.facebook.com/people/Rub%C3%A9n-A-Soler-L%C3%B3pez/pfbid02jBi9x5f6XYHdjMyZDPuAK6vTF5q87TdrTWByLKh4PEu2YQPbG5peC7pP1myVBLB9l/?mibextid=ZbWKwL" target="_blank">
   <img src=https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=instagram style="margin-bottom: 5px;" />
- </a>-->
-<!--
- <a href="https://www.portaforlio.com/sheyfg04/" target="_blank">
-  <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=instagram style="margin-bottom: 5px;" />
  </a>
--->
 </div>
 
 <br/>
@@ -62,5 +54,4 @@
 
 <br/>
 
-<img src="https://gpvc.arturio.dev/rubenasl"></img>
 </div>
