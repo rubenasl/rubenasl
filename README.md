@@ -39,7 +39,7 @@
  <a href="https://github.com/rubenasl" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
  </a>
- <a href="https://www.instagram.com/ruben_sl/" target="_blank">
+ <a href="https://www.instagram.com/rube_sl/" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
  </a>
  <a href="https://www.facebook.com/people/Rub%C3%A9n-A-Soler-L%C3%B3pez/pfbid02jBi9x5f6XYHdjMyZDPuAK6vTF5q87TdrTWByLKh4PEu2YQPbG5peC7pP1myVBLB9l/?mibextid=ZbWKwL" target="_blank">
